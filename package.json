@@ -1,0 +1,22 @@
+{
+  "name": "nodelesson",
+  "version": "1.0.0",
+  "description": "Poorly Planned...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msgctcheng/NodeLesson.git"
+  },
+  "keywords": [
+    "bleh"
+  ],
+  "author": "ME",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msgctcheng/NodeLesson/issues"
+  },
+  "homepage": "https://github.com/msgctcheng/NodeLesson#readme"
+}
