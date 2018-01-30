@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/msgctcheng/NodeLesson/issues"
   },
-  "homepage": "https://github.com/msgctcheng/NodeLesson#readme"
+  "homepage": "https://github.com/msgctcheng/NodeLesson#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
 }
